@@ -2,11 +2,9 @@
 
 ## Description
 
-The setup that I use is arch linux with dwm
+The setup that I use is arch linux with dwm anything else is pretty trival in terms of functioning OS
 
-The desktop experience is created by
-
-scripts patches and programs that work well with each other.
+The desktop experience is created by scripts patches and programs that work well with each other.
 
 ## Core programs
 
